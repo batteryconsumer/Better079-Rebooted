@@ -1,7 +1,6 @@
 # Better079-Rebooted
 Its the Rebooted version of Better079!
 
-# Better 079 (v2.0.0)
 > This plugin adds so many new abilities to SCP-079 for a more interesting funny gameplay or roleplaying experience. The added features will not interfere with roleplaying and give the subject unlimited possibilities. **The plugin is ready to work with Northwood API**
 > 
 #### With this plugin, SCP-079 will be able to:
@@ -19,3 +18,6 @@ Its the Rebooted version of Better079!
 
 ## Installation
 > Download last release and put Better079.dll into ``EXILED/Plugins/`` folder.
+
+
+I CHANGED SO FUCKING MANY THING IN THIS PLUGIN OHH MAN.... THOSE SO FUCKING MANY BUGS, and GLITCHES.
